@@ -1,10 +1,10 @@
 /**
- * @name BetterTeamSpeakColors
- * @description The color palette of the TeamSpeak theme "BetterTeamSpeakTheme" (https://github.com/DerTyp7/better-teamspeak-theme), so both windows look similar.
- * @author DerTyp7
+ * @name BetterTeamSpeakColors (DiscordRecolor)
+ * @description The color palette of the TeamSpeak theme "BetterTeamSpeakTheme" (https://github.com/DerTyp7/better-teamspeak-theme), so both windows look similar. NOTE: This is based on the DiscordRecolor theme by mwittrien (https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor)
+ * @author DerTyp
  * @version 1.0.0
  * @source https://github.com/DerTyp7/BetterDiscord-BetterTeamSpeakColors
- * @updateUrl https://raw.githubusercontent.com/DerTyp7/BetterDiscord-BetterTeamSpeakColors/main/betterTeamSpeakColors.theme.css
+ * @updateUrl https://dertyp7.github.io/BetterDiscord-BetterTeamSpeakColors/betterTeamSpeakColors.theme.css
  *
  * @var checkbox			settingsicons_s			"User Settings Icons"					1
  * @var text				font_s				"General Font"						"gg sans", "Noto Sans"
@@ -54,10 +54,10 @@
 	--textdarker: 115, 115, 115; /*	Text Color 5		-	default:	114,118,125		-	hex:	#72767d		*/
 	--textdarkest: 80, 80, 80; /*	Text Color 6		-	default:	79,84,92		-	hex:	#4f545c		*/
 
-	--backgroundaccent: 50, 50, 50; /*	Background Accent	-	default:	64,68,75		-	hex:	#40444b		*/
-	--backgroundprimary: 30, 30, 30; /*	Background 1		-	default:	54,57,63		-	hex:	#36393f		*/
-	--backgroundsecondary: 20, 20, 20; /*	Background 2		-	default:	47,49,54		-	hex:	#2f3136		*/
-	--backgroundsecondaryalt: 15, 15, 15; /*	Background 3		-	default:	41,43,47		-	hex:	#292b2f		*/
-	--backgroundtertiary: 10, 10, 10; /*	Background 4		-	default:	32,34,37		-	hex:	#202225		*/
-	--backgroundfloating: 0, 0, 0; /*	Background Elevated	-	default:	24,25,28		-	hex:	#18191c		*/
+	--backgroundaccent: 38, 44, 56; /*	Background Accent	-	default:	64,68,75		-	hex:	#40444b		*/
+	--backgroundprimary: 29, 34, 43; /*	Background 1		-	default:	54,57,63		-	hex:	#36393f		*/
+	--backgroundsecondary: 23, 27, 36; /*	Background 2		-	default:	47,49,54		-	hex:	#2f3136		*/
+	--backgroundsecondaryalt: 26, 31, 41; /*	Background 3		-	default:	41,43,47		-	hex:	#292b2f		*/
+	--backgroundtertiary: 18, 22, 28; /*	Background 4		-	default:	32,34,37		-	hex:	#202225		*/
+	--backgroundfloating: 24, 25, 28; /*	Background Elevated	-	default:	24,25,28		-	hex:	#18191c		*/
 }
